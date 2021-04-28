@@ -1,4 +1,4 @@
 # kiratinha
 Discord bot to our clan server
 
-Run cato .env.example >> .env and change the variables
+Run "cat .env.example >> .env" or another similar comand and change the variables inside .env
