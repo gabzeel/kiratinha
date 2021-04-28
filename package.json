@@ -1,0 +1,26 @@
+{
+  "name": "kiratinha",
+  "version": "1.0.0",
+  "description": "Discord bot to our clan server",
+  "main": "main.js",
+  "dependencies": {
+    "discord.js": "^12.5.3",
+    "dotenv": "^8.2.0",
+    "nodemon": "^2.0.7"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "npx nodemon main.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gabzeel/kiratinha.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gabzeel/kiratinha/issues"
+  },
+  "homepage": "https://github.com/gabzeel/kiratinha#readme"
+}
